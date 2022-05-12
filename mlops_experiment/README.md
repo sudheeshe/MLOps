@@ -1,9 +1,10 @@
 MLOps_experiment
 ==============================
 
-Its a MLOps Experiment project
+Its a MLOps Experiment project Dummy project
 
-Project Organization
+Project Organization  
+
 ------------
 
     ├── LICENSE
